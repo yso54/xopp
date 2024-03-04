@@ -1,0 +1,9 @@
+OWNER = ["yso01"]
+OWNER_NAME = "yso01"
+BOT_TOKEN = "7050268763:AAGpB0y39_T8ObHUqTUe9kX_xdMWKV9ejLo"
+DATABASE = "mongodb+srv://ersh:antwai@cluster0.pforz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+CHANNEL = "yso35"
+GROUP = "https://t.me/yso35"
+VID_SO = "https://telegra.ph/file/1097b15846ed3803f99c0.jpg"
+PHOTO = "https://telegra.ph/file/1097b15846ed3803f99c0.jpg"
+LOGS = "gropelsana"
